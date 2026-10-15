@@ -15,4 +15,5 @@ int main() {
 		}
 		printf("Сумма чисел: %d\n", sum);
 	}
+	return 0;
 }
