@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-int kisya() {
+int main() {
 	setlocale(LC_ALL, "Russian");
 	int a;
 	do {
