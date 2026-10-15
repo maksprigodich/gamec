@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-int gega() {
+int main() {
 	setlocale(LC_ALL, "Russian");
 	int N;
 	printf("Введите число - ");
