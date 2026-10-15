@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-int keks() {
+int main() {
 	int N;
 	int c = 0;
 	scanf_s("%d", &N);
