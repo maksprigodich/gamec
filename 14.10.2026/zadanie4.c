@@ -1,5 +1,5 @@
 #include <stdio.h>
-int bibs() {
+int main() {
 	int N;
 	int umn = 0;
 	scanf_s("%d", &N);
