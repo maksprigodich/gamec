@@ -4,7 +4,7 @@ int smena(int* a, int* b) {
 	*a = *b;
 	*b = t;
 }
-int kikido() {
+int main() {
 	int a, b;
 	printf("Введите 2 числа: \n");
 	scanf_s("%d %d", &a, &b);
